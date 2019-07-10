@@ -24,6 +24,14 @@
 ?>
 
 <?php
+    $hello = "Hello,";
+    $name = "Oshiro";
+    $world = "‘s World!";
+    
+    echo $hello.$name.$world;
+?>
+
+<?php
     $tech_boost = "tech ";
     $tech_boost .= "boost";
     
