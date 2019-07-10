@@ -22,6 +22,12 @@
     function printSum($a,$b){
         echo $a + $b;
     }
-    printSum(2,4)
+    printSum(2,4);
 ?>
 
+<?php
+    function array($arr){
+        riturn ($arr );
+    }
+    for = array(1, 3, 5 ,7, 9)
+?>
