@@ -1,3 +1,4 @@
+
 <?php
     function sum($max) {
         $result = 0;
@@ -7,25 +8,22 @@
         return $result;
     }
     echo sum(100);
-?>
 
 
 
-<?php
+
+
     function multipleNumber($number){
         echo $number * 2;
     }
     multipleNumber(2)
-?>
 
-<?php
+
     function printSum($a,$b){
         echo $a + $b;
     }
     printSum(2,4);
-?>
 
-<?php
     function array($arr){
         riturn ($arr );
     }
